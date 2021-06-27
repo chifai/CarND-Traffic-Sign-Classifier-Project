@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [visual]: ./report_image/visual_histogram.png "Visualization"
 [grayscale]: ./report_image/grayscale.jpg "Grayscaling"
-[aug_image]: ./report_image/aug_image.jpg "Random Noise"
+[aug_image]: ./report_image/aug_image.png "Random Noise"
 [traffic_sign1]: ./report_image/test_image1.png "Traffic Sign 1"
 [traffic_sign2]: ./report_image/test_image2.png "Traffic Sign 2"
 [traffic_sign3]: ./report_image/test_image3.png "Traffic Sign 3"
